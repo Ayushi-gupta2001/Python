@@ -22,5 +22,11 @@ print(type(sum1))
 
 student_grade = [2,3,4,5,6]
 print(type(student_grade))
-print((student_grade)/2)
+
+
+######### Ranges in list ###########
+
+student_grade = list(range(1,10))
+print(student_grade)
+
 
